@@ -84,3 +84,10 @@ Currency Converter is a simple and lightweight mobile app that allows users to c
 ---
 ### 4. Walkthrough - Demo Day
 
+<div>
+    <a href="https://www.loom.com/share/adb72dc05ad64cc2ba86ea3b8f5c8084">
+    </a>
+    <a href="https://www.loom.com/share/adb72dc05ad64cc2ba86ea3b8f5c8084">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/adb72dc05ad64cc2ba86ea3b8f5c8084-87115c39f5a94012-full-play.gif">
+    </a>
+  </div>
